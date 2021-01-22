@@ -1,0 +1,3 @@
+[submodule "project-text"]
+	path = project-text
+	url = https://github.com/hezhilong5211/project-text.git
